@@ -1,5 +1,5 @@
 # İyzico Ödeme Sistemi Entegrasyon Dokümantasyonu (PHP)
-Bu dokümantasyon, PHP ile İyzico ödeme sistemi entegrasyonunu (payWithIyzico) nasıl yapacağınızı daha sade olarak açıklayacaktır.
+Bu dokümantasyon, PHP ile İyzico ödeme sistemi entegrasyonunu (payWithIyzico) nasıl yapacağınızı daha sade olarak açıklayacaktır. **(Sadece değişiklik yapılan dosyalar yüklenmiştir.)** 
 
 ## Gereksinimler
 
