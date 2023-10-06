@@ -18,11 +18,11 @@ Bu projeyi kullanabilmek için aşağıdaki gereksinimlere ihtiyacınız var:
 
 ## Aşamalar
 
-1. Iyzico'nun istediği gerekli bilgileri sağlayacağımız ödeme formumuzu oluşturalım. //index.php
-2. Callback sayfamızı oluşturalım. //callback.php
-3. Iyzico'nun parametrelerine formdan aldığımız bilgileri hatasız şekilde post edelim. //iyzipay-php/samples/initialize_pay_with_iyzico.php (index.php içine çekerek kullandım.)
-4. Iyzico'nun ödemenin gerçekleşip gerçekleşmediğine dair callback sayfasına gönderdiği mesajları değerlendirelim. //callback.php
-5. Eğer başarılıysa gerekli bilgileri veritabanımıza da aktaralım. //callback.php
-6. Ödemenin başarılı ve başarısız olma durumları için son kullanıcıya mesaj gösterelim. //callback.php->index.php
+1. Iyzico'nun istediği gerekli bilgileri sağlayacağımız ödeme formumuzu oluşturalım. **index.php**
+2. Callback sayfamızı oluşturalım. **callback.php**
+3. Iyzico'nun parametrelerine formdan aldığımız bilgileri hatasız şekilde post edelim. **iyzipay-php/samples/initialize_pay_with_iyzico.php (index.php içine çekerek kullandım.)**
+4. Iyzico'nun ödemenin gerçekleşip gerçekleşmediğine dair callback sayfasına gönderdiği mesajları değerlendirelim. **callback.php**
+5. Eğer başarılıysa gerekli bilgileri veritabanımıza da aktaralım. **callback.php**
+6. Ödemenin başarılı ve başarısız olma durumları için son kullanıcıya mesaj gösterelim. **callback.php->index.php**
 
 
